@@ -1,3 +1,3 @@
 # practie-spring
-testing some basic..conflict:wq!
+testing some basic..conflict
 
